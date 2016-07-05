@@ -1,3 +1,5 @@
+This repository are based on the core ditnet repository, with changes to the project descriptor to use the supprted .NET RHEL 7.x core framework version.
+
 # .NET Core Samples
 
 This directory contains samples that you can use to test out [.NET Core](http://dotnet.github.io). They are small and simple, and are used to get your feet wet with .NET Core as fast as possible. 
